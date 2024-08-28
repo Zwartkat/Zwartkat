@@ -1,6 +1,13 @@
 ### Languages and tools
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
 
 <!--
 **Zwartkat/Zwartkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
